@@ -1,0 +1,21 @@
+.dropD {
+    width: 100%;
+    padding-top: 6.5px;
+    padding-bottom: 6.5px;
+    font-family: sans-serif;
+    font-size: 15px;
+    background-color: rgb(246, 243, 243);
+    border-radius: 5px 0 0 5px  ;
+    height: 41px;
+    /* border-color: #cd9042; */
+}
+.dropD:hover {
+    background-color: rgb(205, 197, 197) ;
+    cursor: pointer;
+}
+
+
+.dropD {
+    z-index: auto;
+    display: block;
+}
